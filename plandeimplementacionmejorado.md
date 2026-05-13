@@ -55,7 +55,7 @@
 
 ---
 
-### 🌈 🔹 Uso de Degradados
+###  🔹 Uso de Degradados
 
 Para lograr un diseño moderno y atractivo:
 
@@ -68,11 +68,11 @@ Para lograr un diseño moderno y atractivo:
 * **Fondos suaves:**
   Gris claro → Blanco (#F2F2F2 → #FFFFFF)
 
-👉 Estos degradados deben aplicarse en banners, botones principales y pantallas clave para generar profundidad visual.
+ Estos degradados deben aplicarse en banners, botones principales y pantallas clave para generar profundidad visual.
 
 ---
 
-### 🧩 🔹 Componentes Visuales Clave
+###  🔹 Componentes Visuales Clave
 
 * **Botones:**
 
